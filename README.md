@@ -2,6 +2,7 @@ Empowering Law Enforcement with Real-Time Vehicle Information for Enhanced Publi
 
 Leveraging Technology to Streamline Vehicle Verification and Accelerate Crime Prevention
 
+Checkout the website at: https://pragyangupta04.wixstudio.io/pragyangupta-rcs
 ​
 
 The Challenge:
@@ -39,6 +40,17 @@ Instantaneous Vehicle Verification: Utilizing cutting-edge Automatic Number Pla
 
 Streamlined Data Access: The application eliminates the need for manual data entry and communication with police stations, significantly reducing verification time and minimizing errors.
 
+
 Enhanced Operational Efficiency: Officers can make informed decisions on the spot, leading to faster response times, improved resource allocation, and more effective crime prevention strategies.
 
 Increased Safety for Officers and Citizens: The ability to quickly verify vehicles reduces the risk of confrontations and enhances overall safety for both law enforcement personnel and the public.
+
+...
+<img width="372" alt="Screenshot 2024-01-18 at 6 51 57 AM" src="https://github.com/Gauri152003/RJPOLICE_HACK_1675_Square_6/assets/156932059/0526f57c-33e4-4cfc-b3bd-84fbde7d516f">
+<img width="375" alt="Screenshot 2024-01-18 at 6 52 09 AM" src="https://github.com/Gauri152003/RJPOLICE_HACK_1675_Square_6/assets/156932059/f5eed93e-a2ad-42f2-a839-4ceb1cb14e45">
+<img width="374" alt="Screenshot 2024-01-18 at 6 52 26 AM" src="https://github.com/Gauri152003/RJPOLICE_HACK_1675_Square_6/assets/156932059/95aa2942-ca51-4f6a-bb61-e9be2ddd2fdf">
+<img width="371" alt="Screenshot 2024-01-18 at 6 52 38 AM" src="https://github.com/Gauri152003/RJPOLICE_HACK_1675_Square_6/assets/156932059/0f984de5-c76c-4fd2-87b2-a28c723ededf">
+![Uploading Screenshot 2024-01-18 at 6.53.43 AM.png…
+<img width="371" alt="Screenshot 2024-01-18 at 6 53 59 AM" src="https://github.com/Gauri152003/RJPOLICE_HACK_1675_Square_6/assets/156932059/fa1fc30a-3eb6-4ad1-9bdb-ecdc322a8485">
+]()
+<img width="373" alt="Screenshot 2024-01-18 at 6 56 56 AM" src="https://github.com/Gauri152003/RJPOLICE_HACK_1675_Square_6/assets/156932059/b8c94477-01e2-4485-b0da-2813f42e4c10">
